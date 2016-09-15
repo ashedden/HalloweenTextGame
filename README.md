@@ -1,10 +1,10 @@
 # HalloweenTextGame
 
-This is a python text-style game. :ghost:
+This is a simple python text-style game. :ghost:
 
 The user will choose which direction to go through the corn maze, and see if they can make it out alive!
 
-To run:
+To run program:
 
 - Have python installed on your computer and working from your terminal
  
