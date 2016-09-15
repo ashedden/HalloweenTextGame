@@ -22,10 +22,9 @@ def spookyMan():
 	pass
 
 def spookyBat():
-	print " ___  /\___/\  ___    "
-	print "/____( ' . ' )____\ "
-	print " Vvvv   ^^    vvvV"
-	print "\n"
+	print " ____  /\_/\ ____    "
+	print "/_____(' . ')____\ "
+	print " Vvvvv  ^^   vvvvV\n"
 	pass
 
 
