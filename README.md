@@ -6,9 +6,9 @@ The user will choose which direction to go through the corn maze, and see if the
 
 To run:
 
-- Have python installed on your terminal
+- Have python installed on your computer and working from your terminal
  
-- Have this repository downloaded to your desktop
+- Have this repository downloaded to your computer
 
 - Make sure you are in the correct folder in your terminal
 
